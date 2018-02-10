@@ -23,7 +23,7 @@
         <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-8">
                         <a href="/"><img class="logo__item animated fadeInDown" src="{{asset('img/logo.png')}}" alt="">
                         </a>
                     </div>
