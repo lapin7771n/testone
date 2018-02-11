@@ -23,12 +23,12 @@
         <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-md-5">
                         <a href="/"><img class="logo__item animated fadeInDown" src="{{asset('img/logo.png')}}" alt="">
                         </a>
                     </div>
-                    <div class="col-lg-4 ml-auto">
-                        <ul class="menu d-flex justify-content-center animated fadeInDown">
+                    <div class="col-md-7  d-flex">
+                        <ul class="menu justify-content-center animated fadeInDown">
                             <li class="menu__item"><a href="/">Sign In</a></li>
                             <li class="menu__item"><a href="#">Sign Up</a></li>
                         </ul>

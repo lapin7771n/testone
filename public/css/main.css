@@ -19,9 +19,12 @@ ul,li{
     color: #fff;
     font-size: 20px;
     font-weight: bold;
+    text-align: right;
+
 }
 .menu__item{
     margin-top: 80px;
+    float: right;
 }
 .logo__item{
     padding-top: 60px;
